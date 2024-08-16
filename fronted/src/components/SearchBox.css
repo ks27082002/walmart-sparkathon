@@ -1,0 +1,40 @@
+/* Search Box Styles */
+.search-box {
+  width: 300px; /* Default width of the search box */
+  max-width: 100%; /* Ensure responsiveness */
+}
+
+.search-input {
+  height: 40px; /* Increase the height of the input */
+  font-size: 16px; /* Adjust font size */
+  padding: 0 10px; /* Add padding for better spacing */
+}
+
+.clear-btn {
+  background: transparent; /* No background for the clear button */
+  border: none; /* Remove border */
+  color: #dc3545; /* Red color for clear icon */
+  font-size: 18px; /* Increase icon size */
+  padding: 0 10px; /* Add padding */
+}
+
+.clear-btn:hover {
+  color: #bd2130; /* Darker red on hover */
+}
+
+.search-btn {
+  font-size: 18px; /* Increase search icon size */
+  padding: 0 15px; /* Adjust padding for better alignment */
+}
+
+@media (min-width: 768px) {
+  .search-box {
+    width: 400px; /* Increase width for larger screens */
+  }
+}
+
+@media (min-width: 992px) {
+  .search-box {
+    width: 500px; /* Further increase width for even larger screens */
+  }
+}
