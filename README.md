@@ -25,5 +25,12 @@ This is how we envision shaping the future of retail, focusing on personalizatio
 - **Checkout Process**: Seamless checkout with options for shipping and payment methods.
 - **Razorpay Integration**: Secure payment processing through Razorpay.
 
+![Screenshot 2024-08-16 192945](https://github.com/user-attachments/assets/209706ec-cd4d-4a77-b362-79bc1fa1a5ab)
+
+![Screenshot 2024-08-16 193132](https://github.com/user-attachments/assets/26eebc7d-7089-404f-ab9d-a3abcb137394)
+
+![Screenshot 2024-08-16 193222](https://github.com/user-attachments/assets/f860d66a-f22e-4215-b157-df8e2a775b5c)
+
+
 
 
